@@ -1,6 +1,0 @@
-x = int(2)
-y = int(3.2)
-z = int("5")
-print(x)
-print(y)
-print(z)

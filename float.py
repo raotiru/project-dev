@@ -1,6 +1,0 @@
-x = float(2)
-y = float(3.2)
-z = float("5")
-print(x)
-print(y)
-print(z)
